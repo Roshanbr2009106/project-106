@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://connect-prd-cdn.unity.com/20190613/p/images/eda1e191-1d94-45a2-b2d7-5009a4ebf788_stars.png);
+    color: crimson;
+}
+.heading{
+    width: 80%;
+    font-size: 40;
+}
+#camera{
+    border: 2px dashed red;
+    width: 500px;
+    height: 450px;
+}
